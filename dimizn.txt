@@ -15,3 +15,5 @@ DimiznkjjknzimiD
 22223333
 merge test master try
 1234567
+branchDimiznkj checkout merge commit try
+89
